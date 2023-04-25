@@ -1,2 +1,2 @@
-# NIRS_Hook_Hinge
-Student`s research work about Hook hinge
+# Научно-исследовательская работа студента по теме: "Шарнир Гука"
+Работа состоит из реферата по теме и 3D-моделирования шарнира в программе Autodesk Inventor
